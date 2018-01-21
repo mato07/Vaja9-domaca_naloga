@@ -1,0 +1,16 @@
+Danes nudimo naslednje dnevne menije:
+
+Meni 1:
+Predjed: Gobova juha ..... 3€
+Glavna jed: Zrezek ..... 7€
+Sladica: Sladoled ..... 3€
+Cena menija 1 ..... 13€
+
+
+Meni 2:
+Predjed: Goveja juha ..... 3€
+Glavna jed: Pecenka ..... 8€
+Sladica: Zavitek ..... 3€
+Cena menija 2 ..... 14€
+
+
